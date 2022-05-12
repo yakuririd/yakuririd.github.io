@@ -1,47 +1,94 @@
-# Privacy Policy
+# KEBIJAKAN PRIVASI 
 
-[COMPANY-NAME] built the all app as a Free app. This SERVICE is provided by [COMPANY-NAME] at no cost and is intended for use as is.
+Kami menjaga privasi pelanggan dengan serius dan kami hanya akan mengumpulkan dan menggunakan informasi pribadi Anda seperti uraian di bawah ini.
 
-## Information Collection and Use
+Perlindungan data adalah hal yang menyangkut kepercayaan dan privasi Anda sangatlah penting bagi kami. Oleh karena itu, kami hanya akan menggunakan nama anda dan informasi lain yang berhubungan dengan Anda sesuai dengan kebijakan privasi ini. Kami hanya akan mengumpulkan informasi yang penting bagi kami dan kami hanya akan mengumpulkan beberapa informasi yang dibutuhkan untuk melakukan urusan dengan Anda.
 
-The app does use third party services that may collect information used to identify you.
+Kami hanya akan menyimpan informasi Anda selama dibutuhkan diwajibkan oleh hukum atau selama informasi tersebut berhubungan dengan tujuan-tujuan yang ada saat informasi dikumpulkan.
 
-Link to privacy policy of third party service providers used by the app
+Kebijakan privasi kami mengikuti kebijakan perundangan-undangan yang berlaku. Bila Anda memiliki komentar dan masukan, kami dengan senang hati menerimanya melalui alamat email kami di cs@jagel.id.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
+ 
 
-## Log Data
+## Pengumpulan Informasi Privasi secara Personal
 
-We want to let you know that every time you use our Service, if an error occurs in the application. We never collect or store your information.
+Driver tidak menjual, menyebarkan atau memperdagangkan informasi pribadi milik pelanggan yang didapatkan online dengan kepada pihak ketiga.
 
-## Service Providers
+Informasi pribadi alias privasi yang dikumpulkan secara online hanya diperlihatkan dalam perusahaan kami dan hanya dipergunakan Driver dalam rangka pemberian layanan kepada Anda secara internal.
 
-We may employ third-party companies and individuals due to the following reasons:
+Saat Anda membuat akun Driver, informasi pribadi yang mungkin akan kami kumpulkan termasuk namun tidak terbatas pada:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+Nama
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Alamat Email
 
-## Security
+Nomor Telepon
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+KTP
 
-## Links to Other Sites
+Informasi privasi yang kami dapatkan dari Anda akan digunakan untuk:
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Memberikan kepada Anda informasi yang berhubungan dengan produk-produk
 
-## Children’s Privacy
+Menjalankan proses pemesanan Anda dan untuk memberikan Anda pelayanan dan informasi yang ditawarkan oleh aplikasi kami dan yang Anda harapkan
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+Lebih dari itu, kami akan menggunakan informasi yang Anda berikan untuk urusan administrasi akun Anda dengan kami; untuk verifikasi dan mengelola transaksi keuangan yang berhubungan dengan pembayaran yang Anda buat secara online; mengaudit data yang diunduh dari website kami; memperbaiki susunan dan/atau isi dari halaman-halaman aplikasi kami dan menyesuaikannya dengan kebutuhan pengguna aplikasi; mengidentifikasi pengunjung aplikasi kami; melakukan riset mengenai data demografis pengguna aplikasi kami; mengirimkan Anda informasi yang kami anggap akan berguna untuk Anda yang Anda minta dari kami, termasuk informasi tentang produk-produk dan pelayanan-pelayanan kami, asalkan Anda telah mengindikasikan bahwa Anda tidak keberatan dihubungi mengenai hal-hal ini.
 
-## Changes to This Privacy Policy
+Bila anda mendaftar sebagai pengguna aplikasi Driver, kami juga akan menggunakan informasi pribadi Anda untuk mengirimkan kepada Anda bahan-bahan promosi atau pemasaran dari waktu ke waktu. Anda dapat berhenti berlangganan layanan kami kapan saja dengan menggunakan fungsi cabut subscription berhenti berlangganan di dalam bahan pemasaran elektronik.
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+Pembayaran yang Anda lakukan melalui aplikasi ini akan diproses oleh agen kami Driver. Anda harus memberikan kepada kami dan agen kami atau aplikasi ini informasi yang akurat dan tidak menyesatkan dan Anda harus selalu memperbarui dan memberitahukan kami bila ada perubahan.
 
-## Contact Us
+Rincian pemesanan Anda akan kami simpan untuk alasan keamanan namun tidak akan bisa Anda dapatkan langsung dari kami. Namun, Anda dapat mengakses informasi tersebut dengan cara melakukan login ke akun Anda melalui aplikasi ini. Disini Anda dapat melihat rincian tentang pemesanan yang pernah Anda lakukan, pemesanan yang masih terbuka atau yang hendak dikirimkan. Anda juga bisa mengelola rincian alamat, informasi bank dan newsletter yang mungkin Anda berlangganan dengan. Anda setuju bahwa Anda menganggap akses data pribadi ini secara konfidensial adalah rahasia dan Anda tidak akan membiarkan pihak ketiga memiliki kemampuan untuk akses data pribadi tersebut tanpa ada izin. Kami tidak akan memiliki bertanggung jawab atas penyalahgunaan password kecuali penyalahgunaan tersebut adalah kelalaian kami.
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us
+## Memperbarui Informasi Privasi Anda
+
+Anda dapat memperbarui informasi Privasi Anda kapan saja dengan cara mengakses aplikasi Driver.
+
+## Keamanan Informasi Pribadi Anda
+
+Driver memastikan bahwa informasi yang dikumpulkan akan disimpan dengan aman. Kami menyimpan informasi pribadi Anda dengan cara:
+
+## Membatasi akses ke dalam informasi pribadi Anda
+
+Mengurus dan mengelola produk-produk teknologi kami untuk mencegah akses komputer yang tidak memiliki izin
+Secara aman menghancurkan informasi pribadi Anda saat kami tidak lagi membutuhkannya untuk tujuan catatan retensi
+ 
+
+## Meminta akses lokasi saat menggunakan aplikasi
+
+Saat menggunakan aplikasi, akan ada pemberitahuan aktivasi lokasi untuk keperluan tracking driver dan pengguna saat pemesanan barang
+Jika aplikasi tidak digunakan maka akses lokasi pada aplikasi secara otomatis akan mati
+ 
+
+## Penyingkapan Informasi Pribadi
+
+Kami tidak akan membagikan informasi Anda dengan organisasi lain selain organisasi yang berkaitan dengan kami dan pihak ketiga yang bersangkutan dengan pengiriman barang-barang yang telah Anda beli dari aplikasi Driver. Dalam situasi yang dikecualikan, Driver mungkin akan membutuhkan Anda untuk menyingkapkan informasi pribadi Anda, termasuk saat dimana adanya sesuai perintah pengadilan atau undang-undang yang berlaku bukti bahwa penyingkapan informasi dapat mencegah ancaman hidup atau kesehatan, atau untuk kepentingan hukum. Driver memiliki komitmen untuk mematuhi the Privacy Act and the National Privacy Principles kebijakan perundang undangan yang berlaku.
+
+Bila Anda percaya bahwa privasi Anda telah dilanggar oleh Driver, harap hubungi kami di onekof.kc@gmail.com dan kami akan menyelesaikan masalah tersebut.
+
+## Pengumpulan Data Komputer
+
+Saat Anda mengunjungi Driver, server perusahaan kami akan mengumpulkan informasi yang smartphone Anda kirim saat Anda membuka aplikasi secara otomatis. Data ini mungkin akan termasuk:
+
+Alamat IP Komputer Anda
+
+Tipe HP Anda
+
+Tracking Lokasi Anda saat ini
+
+Waktu yang Anda habiskan di halaman-halaman tersebut, barang dan informasi yang dicari di aplikasi kami, waktu akses dan tanggal, dan statistik lainnya.
+
+Informasi yang dikumpulkan akan digunakan untuk analisa dan evaluasi untuk membantu kami memperbaiki aplikasi kami, dan pelayanan-pelayanan dan produk-produk yang kami beri. Data-data ini tidak akan digunakan berhubungan dengan informasi pribadi lainnya.
+
+Sebagai bagian di atas, Driver dapat menggunakan fitur Google Analytics berdasarkan pada Tampilan Iklan, termasuk (walaupun tidak terbatas) pada hal berikut: Remarketing, Google Display Network Impression Reporting, integrasi DoubleClick Campaign Manager, dan Demografi Google Analytics serta Bunga Pelaporan. Dengan menggunakan Google Ads Setting (https://www.google.com/settings/ads) , Anda dapat memilih Display Advertising dari Google Analytics dan menyesuaikan iklan Jaringan Display Google.
+
+Driver juga menggunakan Remarketing dengan Google Analytics untuk mengiklankan secara online; vendor pihak ketiga , termasuk Google, dapat menampilkan iklan online Driver di Internet. Driver dan vendor pihak ketiga, termasuk Google, menggunakan cookies pihak pertama (seperti cookie Google Analytics) dan cookies pihak ketiga (seperti cookies DoubleClick ) bersama-sama untuk menginformasikan, mengoptimalkan, dan melayani iklan berdasarkan kunjungan terakhir pengunjung aplikasi Driver, serta melaporkan bagaimana hasil dari tayangan iklan, kegunaan lain dari layanan iklan, dan interaksi dengan tayangan iklan tersebut dan layanan iklan yang terkait dengan kunjungan ke Driver.
+
+## Perubahan dalam Kebijakan Privasi
+
+Driver memiliki hak untuk merubah dan memodifikasi kebijakan privasi kapan saja. Rencana perubahan kebijakan privasi tersebut akan dipublikasikan di website kami 7 (tujuh) hari sebelum diberlakukan.
+
+## Keluhan mengenai Pelanggaran Hak Privasi
+
+Bila Anda tidak puas dengan cara kami menangani pertanyaan atau keluhan Anda, harap langsung hubungi kami di onekof.kc@gmail.com
+
